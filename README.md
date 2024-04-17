@@ -11,11 +11,16 @@ Le projet se divise en plusieurs parties, correspondant aux étapes définies da
 3. Création de l'interface IMetier avec une méthode calcul.
 4. Implémentation de l'interface IMetier en utilisant le couplage faible.
 5. Injection des dépendances :
- 5.1 Par instanciation statique.
- 5.2 Par instanciation dynamique.
- 5.3 En utilisant le Framework Spring :
-   5.3.1 Version XML.
-   5.3.2 Version basée sur les annotations.
+   
+        5.1 Par instanciation statique.
+ 
+        5.2 Par instanciation dynamique.
+ 
+        5.3 En utilisant le Framework Spring :
+ 
+          5.3.1 Version XML.
+   
+          5.3.2 Version basée sur les annotations.
 # *Ressources*
 Les vidéos suivantes ont été utilisées comme ressources pour la réalisation de ce projet :
 
