@@ -3,7 +3,7 @@ Ce TP est réalisé dans le cadre de l'activité pratique N°1 du cours de Syst�
 Objectif
 L'objectif de cette activité pratique est de comprendre et de mettre en œuvre le concept d'injection de dépendances en utilisant différentes méthodes, notamment par instanciation statique, par instanciation dynamique et en utilisant le Framework Spring, tant dans sa version XML que dans sa version basée sur les annotations.
 
-# *Contenu du projet*
+# *Étapes du TP*
 Le projet se divise en plusieurs parties, correspondant aux étapes définies dans l'énoncé de l'activité :
 
 1. Création de l'interface IDao avec une méthode getDate.
